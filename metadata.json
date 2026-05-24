@@ -1,0 +1,6 @@
+{
+  "name": "Life Squares",
+  "description": "Visualize passed and remaining days of your life in an elegant, interactive square grid based on your residence and age.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

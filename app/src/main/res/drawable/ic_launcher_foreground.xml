@@ -1,0 +1,48 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Row 1: Filled Squares (Passed Days) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M30,30 l12,0 l0,12 l-12,0 Z" />
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M48,30 l12,0 l0,12 l-12,0 Z" />
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M66,30 l12,0 l0,12 l-12,0 Z" />
+        
+    <!-- Row 2: Lived, Today, and Outlines -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M30,48 l12,0 l0,12 l-12,0 Z" />
+    <path
+        android:fillColor="#EC4899"
+        android:pathData="M48,48 l12,0 l0,12 l-12,0 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M66,48 l12,0 l0,12 l-12,0 Z" />
+        
+    <!-- Row 3: Outlined Squares (Future Days) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M30,66 l12,0 l0,12 l-12,0 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M48,66 l12,0 l0,12 l-12,0 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M66,66 l12,0 l0,12 l-12,0 Z" />
+        
+</vector>
